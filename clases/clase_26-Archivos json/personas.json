@@ -1,0 +1,50 @@
+[
+ {
+  "nombre": "Ingrid",
+  "edad": 15,
+  "profesion": "Estudiante",
+  "estaTrabajando": true
+ },
+ {
+  "nombre": "Yoselin",
+  "edad": 17,
+  "profesion": "Cocinera",
+  "estaTrabajando": false
+ },
+ {
+  "nombre": "Enzo",
+  "edad": 12,
+  "profesion": "Gamer",
+  "estaTrabajando": true
+ },
+ {
+  "nombre": "Miriam",
+  "edad": 37,
+  "profesion": "Programadora",
+  "estaTrabajando": true
+ },
+ {
+  "nombre": "Fernando",
+  "edad": 44,
+  "profesion": "Docente",
+  "estaTrabajando": true
+ },
+ {
+  "nombre": "Carla",
+  "edad": 40,
+  "profesion": "Docente",
+  "estaTrabajando": false
+ },
+ {
+  "nombre": "Ingrid",
+  "edad": 15,
+  "profesion": "Gamer",
+  "estaTrabajando": false
+ },
+ {
+  "nombre": "Ingrid",
+  "edad": 15,
+  "profesion": "Gamer",
+  "estaTrabajando": false
+ }
+]
